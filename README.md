@@ -1,1 +1,1 @@
-Tea Tsenet
+Tea Tesnet
